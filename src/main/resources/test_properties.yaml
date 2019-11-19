@@ -2,3 +2,6 @@ http:
  port: "7777"
  url:
   base: "users"
+
+hello:
+ world: "hello, world"
